@@ -1,0 +1,5 @@
+2024-12-02 11:39:33.372 [main] DEBUG com.pluralsight.App - This is debug : ☕ 
+2024-12-02 11:39:33.375 [main] INFO  com.pluralsight.App - This is info : ☕ 
+2024-12-02 11:39:33.375 [main] WARN  com.pluralsight.App - This is warn : ☕ 
+2024-12-02 11:39:33.375 [main] ERROR com.pluralsight.App - This is error : ☕ 
+2024-12-02 11:39:33.375 [main] FATAL com.pluralsight.App - This is fatal : ☕ 
